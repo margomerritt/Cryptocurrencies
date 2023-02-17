@@ -12,8 +12,12 @@ Project consists of four technical analysis parts. Deliverable 1 consists of pre
  * Software: Python, Jupyter Notebook, Pandas 
 
 
-## Results
+## Visualizing Cryptocurrencies Results
 
-Visualizing Cryptocurrencies Results
+### 3D-Scatter with Clusters
+
+![Screen Shot 2023-02-17 at 6 41 52 PM](https://user-images.githubusercontent.com/111299372/219817245-89377f15-fc34-401c-b993-747be9e37ef2.png)
+
+### Scatter Plot
 
 ![Screen Shot 2023-02-17 at 6 36 48 PM](https://user-images.githubusercontent.com/111299372/219816839-7bf2e22d-0ab4-4352-afbb-1535db409e0a.png)
